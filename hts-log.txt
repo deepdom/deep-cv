@@ -1,0 +1,55 @@
+HTTrack3.47-27+htsswf+htsjava launched on Mon, 07 Mar 2016 18:59:42 at http://shifthtml.themerex.net/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" http://shifthtml.themerex.net/ -O1 "C:\My Web Sites\cv2" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:02:14	Error: 	Unable to save file C:/My Web Sites/cv2/shifthtml.themerex.net/blog-category-arhive.html: Permission denied
+19:02:14	Warning: 	Link shifthtml.themerex.net/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:02:17	Error: 	"Not Found" (404) at link shifthtml.themerex.net/portfolio.html (from shifthtml.themerex.net/)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/title_divider.gif (from shifthtml.themerex.net/style/style.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/close_message_button.gif (from shifthtml.themerex.net/style/style.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/blog-category-arhive.html/ (from shifthtml.themerex.net/blog-category-arhive.html)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/default/sprite.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/default/sprite_x.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/default/sprite_y.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/default/sprite_next.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/default/sprite_prev.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/default/default_thumb.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/default/loader.gif (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/light_rounded/btnNext.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/light_rounded/btnPrevious.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/light_rounded/sprite.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/popup_buttons.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_rounded/sprite.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_rounded/contentPattern.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_rounded/btnNext.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_rounded/btnPrevious.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_rounded/loader.gif (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_square/loader.gif (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_square/sprite.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_square/btnNext.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/dark_square/btnPrevious.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/light_square/sprite.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/light_square/btnNext.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/light_square/btnPrevious.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/sprite.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/contentPatternTop.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/contentPatternLeft.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/contentPatternRight.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/294.gif (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/btnNext.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/btnPrevious.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/contentPatternBottom.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/buttons.png (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/facebook/default_thumbnail.gif (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/images/prettyPhoto/light_rounded/294.gif (from shifthtml.themerex.net/style/prettyPhoto.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/style/bigplay.svg (from shifthtml.themerex.net/style/mediaplayer.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/style/bigplay.png (from shifthtml.themerex.net/style/mediaplayer.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/style/loading.gif (from shifthtml.themerex.net/style/mediaplayer.css)
+19:02:50	Error: 	"Not Found" (404) at link shifthtml.themerex.net/style/controls.png (from shifthtml.themerex.net/style/mediaplayer.css)
+
+HTTrack Website Copier/3.47-27 mirror complete in 3 minutes 8 seconds : 149 links scanned, 106 files written (6728180 bytes overall), 79 files updated [4035641 bytes received at 21466 bytes/sec], 882829 bytes transferred using HTTP compression in 76 files, ratio 37%, 1.1 requests per connection
+(43 errors, 1 warnings, 0 messages)
